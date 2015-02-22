@@ -1,8 +1,7 @@
-You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.  
 
 Run_Analysis.R script
 
-R script called run_analysis.R does the following. 
+It does the following. 
 0. Prepare environment
    Clean up workspace 
    Load plyr package
