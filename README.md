@@ -1,5 +1,7 @@
 
-Run_Analysis.R script
+## Getting and Cleaning Data Course Project
+
+### Run_Analysis.R script
 
 It does the following. 
 0. Prepare environment
@@ -13,6 +15,6 @@ It does the following.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
    The name for this file is tidyData.txt
 
-Additional Information
+### Additional Information
 
 You can find additional information about the variables, data and transformations in the CodeBook.MD file.
